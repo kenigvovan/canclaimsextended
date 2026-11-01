@@ -1,0 +1,11 @@
+{
+	ingredientPattern: "PS",
+	ingredients: {
+		"P": { type: "item", code: "game:plumbandsquare" },
+		"S": { type: "item", code: "game:stick" }
+	},
+	shapeless: true,
+	width: 2,
+	height: 1,
+	output: { type: "item", code: "canclaimsextended:claimwand" }
+}

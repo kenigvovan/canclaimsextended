@@ -1,0 +1,150 @@
+﻿[
+  {
+
+    "ingredientPattern": "BQB,CCC",
+    "ingredients": {
+      "B": {
+        "type": "item",
+        "code": "game:bonemeal",
+        "quantity": 6
+      },
+      "Q": {
+        "type": "item",
+        "code": "game:clearquartz"
+      },
+      "C": {
+        "type": "block",
+        "code": "game:cobblestone-*"
+      }
+    },
+    "name": "cantempleblock1",
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "block",
+      "code": "canclaimsextended:cantempleblock",
+      "quantity": 1,
+      "attributes": {
+        "type": "gravestone-1"
+      }
+    }
+  },
+  {
+
+    "ingredientPattern": "TC",
+    "ingredients": {
+      "T": {
+        "type": "block",
+        "code": "canclaimsextended:cantempleblock",
+        "quantity": 1,
+        "attributes": {
+          "type": "gravestone-1"
+        }
+      },
+      "C": {
+        "type": "block",
+        "code": "game:cobblestone-*"
+      }
+    },
+    "name": "cantempleblock2",
+    "width": 2,
+    "height": 1,
+    "output": {
+      "type": "block",
+      "code": "canclaimsextended:cantempleblock",
+      "quantity": 1,
+      "attributes": {
+        "type": "gravestone-2"
+      }
+    }
+  },
+  {
+
+    "ingredientPattern": "TC",
+    "ingredients": {
+      "T": {
+        "type": "block",
+        "code": "canclaimsextended:cantempleblock",
+        "quantity": 1,
+        "attributes": {
+          "type": "gravestone-2"
+        }
+      },
+      "C": {
+        "type": "block",
+        "code": "game:cobblestone-*"
+      }
+    },
+    "name": "cantempleblock2",
+    "width": 2,
+    "height": 1,
+    "output": {
+      "type": "block",
+      "code": "canclaimsextended:cantempleblock",
+      "quantity": 1,
+      "attributes": {
+        "type": "gravestone-3"
+      }
+    }
+  },
+
+  {
+
+    "ingredientPattern": "TC",
+    "ingredients": {
+      "T": {
+        "type": "block",
+        "code": "canclaimsextended:cantempleblock",
+        "quantity": 1,
+        "attributes": {
+          "type": "gravestone-3"
+        }
+      },
+      "C": {
+        "type": "block",
+        "code": "game:cobblestone-*"
+      }
+    },
+    "name": "cantempleblock2",
+    "width": 2,
+    "height": 1,
+    "output": {
+      "type": "block",
+      "code": "canclaimsextended:cantempleblock",
+      "quantity": 1,
+      "attributes": {
+        "type": "gravestone-4"
+      }
+    }
+  },
+
+  {
+
+    "ingredientPattern": "TC",
+    "ingredients": {
+      "T": {
+        "type": "block",
+        "code": "canclaimsextended:cantempleblock",
+        "quantity": 1,
+        "attributes": {
+          "type": "gravestone-4"
+        }
+      },
+      "C": {
+        "type": "block",
+        "code": "game:cobblestone-*"
+      }
+    },
+    "name": "cantempleblock2",
+    "width": 2,
+    "height": 1,
+    "output": {
+      "type": "block",
+      "code": "canclaimsextended:cantempleblock",
+      "quantity": 1,
+      "attributes": {
+        "type": "gravestone-5"
+      }
+    }
+  }
+]

@@ -1,0 +1,14 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
+    "modid": "canclaimsextended",
+    "name": "Claims Extended",
+    "authors": [
+        "KenigVovan"
+    ],
+    "description": "Cities built from 3D plots of any size",
+    "version": "0.1.2",
+    "dependencies": {
+        "game": ""
+    }
+}

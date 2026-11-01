@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="canclaimsextended/canclaimsextended/canclaimsextended.csproj" />
+  <Project Path="canclaimsextended/ZZCakeBuild/CakeBuild.csproj" />
+  <Project Path="canclaimsextended.scenarios/canclaimsextended.scenarios.csproj" />
+  <Project Path="canclaimsextended.tests/canclaimsextended.tests.csproj" />
+  <Folder Name="/Atlas/">
+    <Project Path="../libs/1.22/Atlas-main/Atlas-main/src/Atlas/Atlas.csproj" />
+    <Project Path="../libs/1.22/Atlas-main/Atlas-main/src/Atlas.XUnit/Atlas.XUnit.csproj" />
+    <Project Path="../libs/1.22/Atlas-main/Atlas-main/src/Atlas.Bridge/Atlas.Bridge.csproj" />
+  </Folder>
+</Solution>
